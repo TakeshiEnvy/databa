@@ -36,6 +36,8 @@ Link mod Don't Starve Together
 
 [Quick Pick](https://steamcommunity.com/sharedfiles/filedetails/?id=501385076)
 
+[Simple Health Bar DST](https://steamcommunity.com/sharedfiles/filedetails/?id=1207269058)
+
 [Too Many Items Plus](https://steamcommunity.com/sharedfiles/filedetails/?id=1365141672)
 
 [Wall Health Regen](https://steamcommunity.com/sharedfiles/filedetails/?id=509723993)
