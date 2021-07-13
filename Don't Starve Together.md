@@ -4,4 +4,7 @@ Link mod Don't Starve Together
 
 [Food Values - Item Tooltips (Server and Client)](https://steamcommunity.com/sharedfiles/filedetails/?id=458940297)
 
+[ActionQueue Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=1608191708)
+
+[Combined Status](https://steamcommunity.com/sharedfiles/filedetails/?id=376333686)
 
