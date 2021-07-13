@@ -24,6 +24,8 @@ Link mod Don't Starve Together
 
 [Fast Travel](https://steamcommunity.com/sharedfiles/filedetails/?id=458587300)
 
+[Finder Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=786654500)
+
 [Food Values - Item Tooltips](https://steamcommunity.com/sharedfiles/filedetails/?id=458940297)
 
 [Geometric Placement](https://steamcommunity.com/sharedfiles/filedetails/?id=351325790)
