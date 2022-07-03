@@ -20,4 +20,4 @@
 | [Instant Loot](https://steamcommunity.com/sharedfiles/filedetails/?id=1440233515) | Removes popup and animations on loot pick ups. |
 | [Instant Avenger Menus](https://steamcommunity.com/sharedfiles/filedetails/?id=1124410215) | Makes all transitions in the Avenger instant + other time savers. Creates a much smoother experience, particularly on lower framerates. |
 | [Evac All](https://steamcommunity.com/sharedfiles/filedetails/?id=1126395106) | This mod adds an "Evac All" ability to soldier ability bars when they are in an active evac zone. |
-| [Stop Wasting My Time](https://steamcommunity.com/sharedfiles/filedetails/?id=620600092) | Speeds up the game by removing pointless pauses and other time-wasters. |
+| [Stop Wasting My Time](https://steamcommunity.com/sharedfiles/filedetails/?id=620600092) |Speeds up the game by removing pointless pauses and other time-wasters. |
