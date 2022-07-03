@@ -21,5 +21,4 @@
 | [Instant Loot](https://steamcommunity.com/sharedfiles/filedetails/?id=1440233515)                       |
 | [Instant Avenger Menus](https://steamcommunity.com/sharedfiles/filedetails/?id=1124410215)              |
 | [Evac All](https://steamcommunity.com/sharedfiles/filedetails/?id=1126395106)                           |
-| [Stop Wasting My Time](https://steamcommunity.com/sharedfiles/filedetails/?id=620600092)                | Speeds up the game by removing pointless pauses and other time-wasters.
-All changes are purely cosmetic. |
+| [Stop Wasting My Time](https://steamcommunity.com/sharedfiles/filedetails/?id=620600092)                | Speeds up the game by removing pointless pauses and other time-wasters. |
