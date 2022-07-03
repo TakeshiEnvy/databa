@@ -1,7 +1,7 @@
 ### **XCOM 2 War of the Chosens**
 
 | Steam Workshop | Descriptions |
-|----------------|:------------:|
+|----------------|:-------------|
 | [Cost-Based Ability Colors](https://steamcommunity.com/sharedfiles/filedetails/?id=1289686596)          |
 | [Overflow Ability Points](https://steamcommunity.com/sharedfiles/filedetails/?id=1126908187) | Overflow Ability Points allows players to gain extra ability points in the late-game by bringing max rank soldiers on missions. |
 | [Modify Continent Bonus](https://steamcommunity.com/sharedfiles/filedetails/?id=1145436332) | Allows you to modify continent bonus mid campaign. |
