@@ -1,4 +1,4 @@
-**XCOM 2 War of the Chosens**
+###**XCOM 2 War of the Chosens**
 
 | Mods          | Steam Workshop     |
 | ------------- |:------------------:|
