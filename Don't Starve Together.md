@@ -17,11 +17,11 @@
 | [Food Values - Item Tooltips](https://steamcommunity.com/sharedfiles/filedetails/?id=458940297)  | Server & Client |  |
 | [Geometric Placement](https://steamcommunity.com/sharedfiles/filedetails/?id=351325790)          | Client | Snaps objects to a grid when placing and displays a build grid around it (unless you hold ctrl). |
 | [Infinite Tent Uses](https://steamcommunity.com/sharedfiles/filedetails/?id=356930882)           | Server | Simple mod that makes tents infinitely durable (aka sets the amount of uses to an unreasonably high number). |
-| [Minimap HUD](https://steamcommunity.com/sharedfiles/filedetails/?id=345692228)                  | 
+| [Minimap HUD](https://steamcommunity.com/sharedfiles/filedetails/?id=345692228)                  |  | Adds a minimap to the HUD |
 | [More durability [Armour]](https://steamcommunity.com/sharedfiles/filedetails/?id=614883513)     | Server | More durability : Armour & Helmets edition. |
 | [Quick Pick](https://steamcommunity.com/sharedfiles/filedetails/?id=501385076)                   |  | The mod removes the animation of harvest grass, sapling, berrybush and other things, which makes them picked like a carrot. |
-| [Simple Health Bar DST](https://steamcommunity.com/sharedfiles/filedetails/?id=1207269058)       | 
+| [Simple Health Bar DST](https://steamcommunity.com/sharedfiles/filedetails/?id=1207269058)       |  | It will be displayed in the combat status automatically. |
 | [Too Many Items Plus](https://steamcommunity.com/sharedfiles/filedetails/?id=1365141672)         |
-| [Wall Health Regen](https://steamcommunity.com/sharedfiles/filedetails/?id=509723993)            |
-| [Walls+](https://steamcommunity.com/sharedfiles/filedetails/?id=806843214)                       |
-| [Wormhole Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=1295277999)              |
+| [Wall Health Regen](https://steamcommunity.com/sharedfiles/filedetails/?id=509723993)            |  | Walls health will be tenfold and they can heal themselves. |
+| [Walls+](https://steamcommunity.com/sharedfiles/filedetails/?id=806843214)                       | Server | Increases HP for walls |
+| [Wormhole Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=1295277999)              |  |  |
