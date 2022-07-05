@@ -1,7 +1,7 @@
 ### **Don't Starve Together**
 
 | Steam Workshop |
-|:--------------:|
+|:---------------|
 | [ActionQueue Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=1608191708)          |
 | [Auto fishing](https://steamcommunity.com/sharedfiles/filedetails/?id=1936478401)                |
 | [Auto-Unequip on 1%](https://steamcommunity.com/sharedfiles/filedetails/?id=1581892848)          |
