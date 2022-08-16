@@ -9,6 +9,7 @@
 | [Animated and Improved Scarves for v1.31](https://www.nexusmods.com/bloodstainedritualofthenight/mods/75) | This mod is an attempt to enhance the game's scarves and give them an epic look. They have been improved, animated and each has a unique look! |
 | [Wings](https://www.nexusmods.com/bloodstainedritualofthenight/mods/20) |  This mod changes the double jump effect, that spawns from her back, to wings inspired by OoE. |
 
+
 ### **Gameplay mods**
 | Nexusmods | Descriptions |
 |----------------|--------------|
