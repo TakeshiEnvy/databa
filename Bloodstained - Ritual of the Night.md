@@ -8,8 +8,7 @@
 | [Miriam's Appearance Improved for v1.31](https://www.nexusmods.com/bloodstainedritualofthenight/mods/95) | Enhances Miriam's appearance inspired by Vusc’s Official box art. New textures for hair, eyes and default dress. Fixes a bug in the game that affects all mods that change Miriam's head and that makes Miriam's eyes disappear after obtaining a new shard. |
 | [Animated and Improved Scarves for v1.31](https://www.nexusmods.com/bloodstainedritualofthenight/mods/75) | This mod is an attempt to enhance the game's scarves and give them an epic look. They have been improved, animated and each has a unique look! |
 | [Wings](https://www.nexusmods.com/bloodstainedritualofthenight/mods/20) |  This mod changes the double jump effect, that spawns from her back, to wings inspired by OoE. |
-
-
+/n
 ### **Gameplay mods**
 | Nexusmods | Descriptions |
 |----------------|--------------|
