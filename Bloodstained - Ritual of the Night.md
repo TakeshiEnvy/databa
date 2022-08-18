@@ -1,4 +1,4 @@
-- ![#f03c15](New patch broke all mods.)
+- ![#f03c15](New patch broke all mods.) `#f03c15`
 
 ### **Gameplay mods**
 | Nexusmods | Descriptions |
